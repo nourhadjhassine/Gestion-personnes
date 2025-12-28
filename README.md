@@ -47,6 +47,14 @@ dans une base de données **MySQL**, tout en respectant l’architecture **Clien
 - Recherche
 
 ---
+### architecture du projet
+<img width="313" height="656" alt="Capture d&#39;écran 2025-12-27 123753" src="https://github.com/user-attachments/assets/6b2fec78-5cb8-4205-82d0-aa726be36901" />
+### capture sur la base de donnee: 
+<img width="548" height="476" alt="Capture d&#39;écran 2025-12-27 123852" src="https://github.com/user-attachments/assets/af24375e-180a-4b28-b8e2-2c0f7313dcf2" />
+
+
+
+
 
 ##  Vidéo de démonstration
 Lien vers la vidéo :  
