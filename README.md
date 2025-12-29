@@ -11,7 +11,7 @@ dans une base de données **MySQL**, tout en respectant l’architecture **Clien
 ## 🛠️ Technologies utilisées
 
 ### Backend
-- Java JEE
+- Java JDK
 - JAX-RS (Jersey)
 - JDBC
 - MySQL
