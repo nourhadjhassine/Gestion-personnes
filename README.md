@@ -8,7 +8,7 @@ dans une base de données **MySQL**, tout en respectant l’architecture **Clien
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 ### Backend
 - Java JDK
@@ -26,7 +26,7 @@ dans une base de données **MySQL**, tout en respectant l’architecture **Clien
 
 ---
 
-## ▶️ Instructions pour exécuter le projet
+##  Instructions pour exécuter le projet
 
 ### 1️⃣ Lancer le backend
 1. Importer le projet **Maven** dans Eclipse
