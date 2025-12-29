@@ -48,7 +48,8 @@ dans une base de données **MySQL**, tout en respectant l’architecture **Clien
 
 ---
 ### architecture du projet
-<img width="313" height="656" alt="Capture d&#39;écran 2025-12-27 123753" src="https://github.com/user-attachments/assets/6b2fec78-5cb8-4205-82d0-aa726be36901" />
+<img width="348" height="700" alt="image" src="https://github.com/user-attachments/assets/b9aecb43-b8ff-4a6d-921b-36efc6eb37c8" />
+
 
 
 ### capture sur la base de donnee
