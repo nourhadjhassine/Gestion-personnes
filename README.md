@@ -46,9 +46,7 @@ dans une base de données **MySQL**, tout en respectant l’architecture **Clien
 - Suppression
 - Recherche
 
----
-### architecture du projet
-<img width="348" height="700" alt="image" src="https://github.com/user-attachments/assets/b9aecb43-b8ff-4a6d-921b-36efc6eb37c8" />
+
 
 
 
